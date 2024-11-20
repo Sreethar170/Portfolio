@@ -167,7 +167,7 @@ div{
     animation-range: entry 0% cover 40%;
 }
 .Achievements_d{
-    padding-left: 50%;
+    padding-left: 10%;
     /* font-size: 100%; */
     font-size: 30px;
     animation: appear  linear;
